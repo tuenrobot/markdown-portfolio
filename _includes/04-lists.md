@@ -1,3 +1,3 @@
-- Reading:books:
-- Coding:computer:
-- Walking:walking:
+- Reading :books:
+- Coding :computer:
+- Walking :walking:
